@@ -1103,7 +1103,7 @@ msgstr "Dacă cineva aud acest lucru, numele meu este Johnathan Derril."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr ""
+msgstr "Dacă cineva poate auzi asta, am nevoie de ajutor."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1285,140 +1285,140 @@ msgstr "Asta-i totul de la mine, alăturați-ne mâine la ora 7, pentru Breakfas
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque corporation."
-msgstr ""
+msgstr "Acesta este un mesaj automatizat de la compania Arque."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr ""
+msgstr "Este obligatorie intrarea în vigoare. Stai înăuntru."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr ""
+msgstr "Dacă cineva ascultă acest lucru, am nevoie de ajutor."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr ""
+msgstr "Transmite un mesaj de circulație, dar ..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr ""
+msgstr "Nu înțeleg de ce. Este o defecțiune?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr ""
+msgstr "Dumnezeu sper că nu încearcă să acopere asta ..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr ""
+msgstr "Am să ... continu să difuzez până nu mai pot."
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr ""
+msgstr "Trecerea navelor, a avioanelor ... NECESITĂȚI trebuie să ia asta."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr ""
+msgstr "Am fost împărțită de soția și fiica mea când lucrurile au venit."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
-msgstr ""
+msgstr "Am fost în vacanță ... vacanță! Nimeni nu este pregătit pentru asta. Nimeni nu poate fi."
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr ""
+msgstr "Știu cum să repar radioul ... nu altceva."
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr ""
+msgstr "Un pescar sa prăbușit în docuri aproape de locul unde sunt."
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr ""
+msgstr "Ei au fost bine, le-am dat provizii și le-am spus cum să încerc să opresc asta."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr ""
+msgstr "Nu cred că se întorc. Mă tot gândesc că aș fi putut face mai mult."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr ""
+msgstr "Te rog, oricine asculta asta. Dacă crezi că e rău aici ... e mai rău."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no-one come?"
-msgstr ""
+msgstr "Avem nevoie de militari. De ce nu a venit nimeni?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr ""
+msgstr "Acea companie trebuie să facă ceva pentru a opri comunicarea."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
-msgstr ""
+msgstr "De ce nu ne-a verificat nimeni? Aceasta este o mică insulă, dar încă mai există oameni ..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr ""
+msgstr "Aș fi vrut să nu ne-am rezervat niciodată această sărbătoare ... dacă aș putea anula ultimele luni ... Dumnezeu ..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr ""
+msgstr "... nu are rost să jucăm \ "ce dacă \"."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1453,14 +1453,14 @@ msgstr "BUN VENIT LA ACTUL ESTRANGED II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr ""
+msgstr "ZILE ÎNAINTE DE EVENIMENTELE ACTULUI I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr ""
+msgstr "FAIRE ISLE, SHETLAND, SCOTLAND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1488,12 +1488,12 @@ msgstr "TIMP"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr ""
+msgstr "ORE ÎN AFARA EVENIMENTELOR ACTULUI I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr ""
+msgstr "UNIUNEA UNKNOWN, NORWEGIAN SEA"
 
